@@ -104,7 +104,7 @@ export interface Params {
 }
 
 export const DEFAULT_PARAMS: Params = {
-  window: 90,
+  window: 30,
   minNetSol: 0.2,
   minBuys: 3,
   minBuyers: 2,
